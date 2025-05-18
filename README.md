@@ -23,7 +23,8 @@ This is a simple Arduino project demonstrating how to cycle through multiple LED
 
 Here is the schematic for the RGB LED blinking project:
 
-![Screenshot from 2025-05-18 22-56-13](https://github.com/user-attachments/assets/152e3ca0-d0d2-4f32-bf5e-7d20ad5bd7ee)
+![image](https://github.com/user-attachments/assets/a167fe3c-7b6c-4b7e-9884-89eceab36f10)
+
 
 ## How It Works
 
