@@ -19,6 +19,12 @@ This is a simple Arduino project demonstrating how to cycle through multiple LED
 | 11          | Blue      | 220Ω resistor in series |
 | 2           | Button    | Use with internal pull-up |
 
+## Circuit Diagram
+
+Here is the schematic for the RGB LED blinking project:
+
+![Screenshot from 2025-05-18 22-56-13](https://github.com/user-attachments/assets/152e3ca0-d0d2-4f32-bf5e-7d20ad5bd7ee)
+
 ## How It Works
 
 - The RGB LED is connected to three PWM-capable pins on the Arduino.
