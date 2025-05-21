@@ -31,7 +31,7 @@ Here is the schematic for the RGB LED blinking project:
 - The RGB LED is connected to three PWM-capable pins on the Arduino.
 - The push button is configured with `INPUT_PULLUP`, so its default state is HIGH.
 - When the button is pressed (logic LOW), the program switches to the next color.
-- After cycling through red, green, and blue, the LED turns off and restarts the sequence.
+- After cycling through red, green, blue, constantly blink with 3 colors mode, and fade light, the LED turns off and restarts the sequence.
 
 ## File
 
