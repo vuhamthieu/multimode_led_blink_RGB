@@ -1,6 +1,6 @@
 # Multimode LED Blink RGB
 
-This is a simple Arduino project demonstrating how to cycle through multiple LED colors using a push button. Each button press advances to the next color in the sequence: red, green, blue, and off.
+This is a simple Arduino project demonstrating how to cycle through multiple LED colors using a push button. Each button press advances to the next color in the sequence: red, green, blue,constant blink with 3 colors, fading and off.
 
 ## Hardware Requirements
 
